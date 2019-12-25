@@ -3,7 +3,7 @@ following codes of books I've red.
 
 # How this project was created
 1. git init
-2. git submodule add git-repository-of-the-sample-codes title
+2. git submodule add git-repository-of-the-sample-codes title  
  fx: git submodule add https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security.git Mastering-Python-for-Networking-and-Security
 
 # How to use this project
