@@ -7,7 +7,7 @@ following codes of books I've red.
  fx: git submodule add https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security.git Mastering-Python-for-Networking-and-Security
 
 # How to use this project
-1. git clone https://github.com/UedaTakeyuki/booksfollows.git
-2. cd booksfollows
+1. git clone https://github.com/UedaTakeyuki/gc_booksfollows.git
+2. cd gc_booksfollows
 3. git submodule init
 4. git submodule update
