@@ -1,3 +1,6 @@
 [submodule "Mastering-Python-for-Networking-and-Security"]
 	path = Mastering-Python-for-Networking-and-Security
 	url = https://github.com/PacktPublishing/Mastering-Python-for-Networking-and-Security.git
+[submodule "Go-Systems-Programming"]
+	path = Go-Systems-Programming
+	url = https://github.com/PacktPublishing/Go-Systems-Programming
