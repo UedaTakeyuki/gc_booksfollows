@@ -1,5 +1,5 @@
 # booksfollows
-following codes of books I've red.
+The following codes of books I've red for my convenient to refer ^o^/
 
 # How this project was created
 1. git init
