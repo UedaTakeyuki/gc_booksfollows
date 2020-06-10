@@ -4,3 +4,6 @@
 [submodule "Go-Systems-Programming"]
 	path = Go-Systems-Programming
 	url = https://github.com/PacktPublishing/Go-Systems-Programming
+[submodule "hands-on-network-programming-with-c"]
+	path = hands-on-network-programming-with-c
+	url = https://github.com/codeplea/hands-on-network-programming-with-c
