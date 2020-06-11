@@ -1,5 +1,5 @@
 # booksfollows
-The following codes of books I've red for my convenient to refer \(^o^)/ バンザ～イ
+The following codes of books I've red for my convenient to refer \\(^o^)/ バンザ～イ
 
 # How this project was created
 1. git init
