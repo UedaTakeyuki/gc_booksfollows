@@ -7,3 +7,9 @@
 [submodule "hands-on-network-programming-with-c"]
 	path = hands-on-network-programming-with-c
 	url = https://github.com/codeplea/hands-on-network-programming-with-c
+[submodule "Extreme-C"]
+	path = Extreme-C
+	url = https://github.com/PacktPublishing/Extreme-C.git
+[submodule "Hands-on-System-Programming-with-Linux"]
+	path = Hands-on-System-Programming-with-Linux
+	url = https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux.git
