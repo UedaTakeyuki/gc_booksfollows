@@ -10,3 +10,6 @@
 [submodule "Hands-on-System-Programming-with-Linux"]
 	path = Hands-on-System-Programming-with-Linux
 	url = https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux.git
+[submodule "Hands-On-Network-Programming-with-C"]
+	path = Hands-On-Network-Programming-with-C
+	url = https://github.com/codeplea/Hands-On-Network-Programming-with-C.git
