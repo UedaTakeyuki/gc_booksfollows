@@ -1,6 +1,7 @@
 # Hands-On Network Programming with C
 
-- https://learning.oreilly.com/library/view/hands-on-network-programming/9781789349863/
+- [book site](https://learning.oreilly.com/library/view/hands-on-network-programming/9781789349863/)
+- [codes](https://github.com/codeplea/hands-on-network-programming-with-c)
 
 ## my followings
 
