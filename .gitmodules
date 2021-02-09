@@ -13,3 +13,6 @@
 [submodule "Hands-On-Network-Programming-with-C"]
 	path = Hands-On-Network-Programming-with-C
 	url = https://github.com/codeplea/Hands-On-Network-Programming-with-C.git
+[submodule "Building-Cross-Platform-GUI-Applications-with-Fyne"]
+	path = Building-Cross-Platform-GUI-Applications-with-Fyne
+	url = https://github.com/PacktPublishing/Building-Cross-Platform-GUI-Applications-with-Fyne.git
