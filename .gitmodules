@@ -16,3 +16,6 @@
 [submodule "Building-Cross-Platform-GUI-Applications-with-Fyne"]
 	path = Building-Cross-Platform-GUI-Applications-with-Fyne
 	url = https://github.com/PacktPublishing/Building-Cross-Platform-GUI-Applications-with-Fyne.git
+[submodule "C-Programming-for-Linux-Systems"]
+	path = C-Programming-for-Linux-Systems
+	url = https://github.com/PacktPublishing/C-Programming-for-Linux-Systems.git
