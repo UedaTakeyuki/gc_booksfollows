@@ -11,3 +11,7 @@ The collection of example codes of books which I've red for my convenient to ref
 2. cd gc_booksfollows
 3. git submodule init
 4. git submodule update --remote --depth 1
+
+# Other source codes located outside of github
+
+- [The Linux Programming Interface](https://man7.org/tlpi/code/index.html)
