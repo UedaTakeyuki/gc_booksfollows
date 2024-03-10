@@ -22,3 +22,6 @@
 [submodule "Data-Structures-and-Algorithms-with-the-CPP-STL"]
 	path = Data-Structures-and-Algorithms-with-the-CPP-STL
 	url = https://github.com/PacktPublishing/Data-Structures-and-Algorithms-with-the-CPP-STL.git
+[submodule "Learn-C++-by-Example"]
+	path = Learn-C++-by-Example
+	url = https://github.com/doctorlove/BootstrapCpp.git
