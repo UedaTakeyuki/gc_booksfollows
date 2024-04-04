@@ -25,3 +25,6 @@
 [submodule "Mastering-Go--Fourth-Edition"]
 	path = Mastering-Go--Fourth-Edition
 	url = https://github.com/mactsouk/mGo4th.git
+[submodule "Learn-C++-by-Example"]
+	path = Learn-C++-by-Example
+	url = https://github.com/doctorlove/BootstrapCpp.git
