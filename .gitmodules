@@ -28,3 +28,6 @@
 [submodule "Learn-C++-by-Example"]
 	path = Learn-C++-by-Example
 	url = https://github.com/doctorlove/BootstrapCpp.git
+[submodule "Clang-Compiler-Frontend-Packt"]
+	path = Clang-Compiler-Frontend-Packt
+	url = https://github.com/PacktPublishing/Clang-Compiler-Frontend-Packt.git
