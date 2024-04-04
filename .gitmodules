@@ -22,3 +22,6 @@
 [submodule "Data-Structures-and-Algorithms-with-the-CPP-STL"]
 	path = Data-Structures-and-Algorithms-with-the-CPP-STL
 	url = https://github.com/PacktPublishing/Data-Structures-and-Algorithms-with-the-CPP-STL.git
+[submodule "Mastering-Go--Fourth-Edition"]
+	path = Mastering-Go--Fourth-Edition
+	url = https://github.com/mactsouk/mGo4th.git
