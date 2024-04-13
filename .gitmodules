@@ -31,3 +31,6 @@
 [submodule "Clang-Compiler-Frontend-Packt"]
 	path = Clang-Compiler-Frontend-Packt
 	url = https://github.com/PacktPublishing/Clang-Compiler-Frontend-Packt.git
+[submodule "Build-an-Orchestrator-in-Go"]
+	path = Build-an-Orchestrator-in-Go
+	url = https://github.com/buildorchestratoringo/code.git
