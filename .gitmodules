@@ -34,3 +34,6 @@
 [submodule "Build-an-Orchestrator-in-Go"]
 	path = Build-an-Orchestrator-in-Go
 	url = https://github.com/buildorchestratoringo/code.git
+[submodule "Professional-C++-6th-Edition"]
+	path = Professional-C++-6th-Edition
+	url = https://github.com/Professional-CPP/edition-6.git
