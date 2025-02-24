@@ -37,3 +37,6 @@
 [submodule "Professional-C++-6th-Edition"]
 	path = Professional-C++-6th-Edition
 	url = https://github.com/Professional-CPP/edition-6.git
+[submodule "Asynchronous-Programming-with-CPP"]
+	path = Asynchronous-Programming-with-CPP
+	url = https://github.com/PacktPublishing/Asynchronous-Programming-with-CPP.git
