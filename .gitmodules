@@ -40,3 +40,6 @@
 [submodule "Asynchronous-Programming-with-CPP"]
 	path = Asynchronous-Programming-with-CPP
 	url = https://github.com/PacktPublishing/Asynchronous-Programming-with-CPP.git
+[submodule "Learn-React-with-TypeScript-Third-Edition"]
+	path = Learn-React-with-TypeScript-Third-Edition
+	url = https://github.com/PacktPublishing/Learn-React-with-TypeScript-Third-Edition.git
