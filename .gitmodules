@@ -43,3 +43,6 @@
 [submodule "Learn-React-with-TypeScript-Third-Edition"]
 	path = Learn-React-with-TypeScript-Third-Edition
 	url = https://github.com/PacktPublishing/Learn-React-with-TypeScript-Third-Edition.git
+[submodule "Godot-4-for-Beginners"]
+	path = Godot-4-for-Beginners
+	url = https://github.com/PacktPublishing/Godot-4-for-Beginners.git
