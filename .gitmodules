@@ -46,3 +46,6 @@
 [submodule "Godot-4-for-Beginners"]
 	path = Godot-4-for-Beginners
 	url = https://github.com/PacktPublishing/Godot-4-for-Beginners.git
+[submodule "modern-css"]
+	path = modern-css
+	url = https://github.com/Apress/modern-css.git
