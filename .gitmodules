@@ -49,3 +49,6 @@
 [submodule "modern-css"]
 	path = modern-css
 	url = https://github.com/Apress/modern-css.git
+[submodule "Learning-Zig"]
+	path = Learning-Zig
+	url = https://github.com/PacktPublishing/Learning-Zig
